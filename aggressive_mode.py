@@ -1,0 +1,1 @@
+Provided Python trading strategy script.

@@ -1,0 +1,18 @@
+
+# Supabase Keys (Placeholder, replace with real values if needed)
+VITE_SUPABASE_URL=your_supabase_url
+VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+
+NEXT_PUBLIC_SUPABASE_URL=https://hpeyqlfkcptxcagicept.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhwZXlxbGZrY3B0eGNhZ2ljZXB0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzcyNjg5MzksImV4cCI6MjA1Mjg0NDkzOX0.Q-uXQs3W5Vdl1GqKBlMbgFbZg1YSKnrdvWOutyxPsZY
+
+# Coinbase API Keys
+COINBASE_API_KEY_1=organizations/99ecbbcd-ddb4-465d-a5c87e2e74f3f/apiKeys/f09F3476-0e3c-4018-9d92-0b1cd49ef748
+COINBASE_PRIVATE_KEY_1="-----BEGIN EC PRIVATE KEY-----
+mUHrPSCrw3yvNjm2UGmeU...
+-----END EC PRIVATE KEY-----"
+
+COINBASE_API_KEY_2=organizations/99ecbbcd-ddb4-465d-a463-5c87e2e74f3f/apiKeys/f1dbbbd1-c114-4cd8-bbde-5cf8e5f13676
+COINBASE_PRIVATE_KEY_2="-----BEGIN EC PRIVATE KEY-----
+mHcCAQEETIpiDVZ7ZTTNUO...
+-----END EC PRIVATE KEY-----"

@@ -1,0 +1,1 @@
+Agent for predicting and trading on market sentiment shifts.
